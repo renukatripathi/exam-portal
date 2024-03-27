@@ -1,0 +1,34 @@
+.section{
+    display:flex;
+    justify-content:space-between;
+}
+.nav-list{
+    display:flex;
+    /* justify-content:space-between; */
+    margin-top: 32px;
+    font-size: 18px;
+}
+.list-item{
+    list-style:none;
+    margin-left:20px;
+}
+.image>img{
+   height:84px;
+}
+.text{
+    margin-left:-50px;
+}
+.right{
+    display:flex;
+}
+h4{
+    margin-right:40px;
+    margin-top:29px;
+}
+#list-item{
+    font-style: italic;
+    list-style:none;
+}
+span{
+    color:red;
+}

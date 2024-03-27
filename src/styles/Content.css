@@ -1,0 +1,19 @@
+.container-fluid{
+    display:flex;
+}
+.about{
+    width:50%;
+}
+.exam-image{
+    /* width:50%; */
+    /* clip-path: polygon(100% 0, 0% 100%, 100% 100%); */
+}
+h2{
+    font-family: serif;
+    color:#ff1a75;
+}
+.about{
+    margin-top: 78px;
+    font-size: 17px;
+    margin-left: 70px;
+}
