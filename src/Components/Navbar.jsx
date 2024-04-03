@@ -18,8 +18,8 @@ const Navbar = () => {
         </ul>
       </div>
       <div className='right'>
-       <h4>Admin</h4>  
-       <h4>User</h4>    
+       <h4>Login</h4>  
+          
       </div>
       
     </div>

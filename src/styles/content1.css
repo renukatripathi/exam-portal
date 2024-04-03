@@ -1,0 +1,25 @@
+.content1{
+    display:flex;
+
+}
+.exam-intro{
+    width:70%;
+}
+.exam-image{
+    width:30%;
+    margin-left:-19px;
+}
+.exam-icon{
+    height: 236px;
+    width: 253px;
+    margin-top:101px;
+    margin-left: 74px;
+}
+.exam-content{
+    margin: 42px 0px 0px 62px;
+    font-size: 21px;
+} 
+.heading{
+    margin-left: 59px;
+    color: darkgrey;
+}
